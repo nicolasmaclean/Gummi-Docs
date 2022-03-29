@@ -1,17 +1,15 @@
-# Summary
+# Table of contents
 
-[Start Here](README.md)
-
-## Core
+* [🍬 Welcome to Gummi](README.md)
 
 ## API Documentation
 
-- [MVC](Patterns/MVC.md)
-  - [RootController<enum>](Patterns/MVC/RootController_enum.md)
-  - [SubController<enum>](Patterns/MVC/SubController_enum.md)
-  - [SubController<enum, uiView>](Patterns/MVC/SubController_enum_uiView.md)
-  - [UIView](Patterns/MVC/UIView.md)
-- [Singletons](Patterns/Singletons.md)
-  - [Singleton](Patterns/Singletons/Singleton.md)
-  - [Lazy Singleton](Patterns/Singletons/LazySingleton.md)
-  - [Persistent Lazy Singleton](Patterns/Singletons/PLazySingleton.md)
+* [MVC](api-documentation/mvc/README.md)
+  * [RootController](Patterns/MVC/RootController\_enum.md)
+  * [SubController](Patterns/MVC/SubController\_enum.md)
+  * [SubController\<enum, uiView>](Patterns/MVC/SubController\_enum\_uiView.md)
+  * [UIView](Patterns/MVC/UIView.md)
+* [Singletons](api-documentation/singletons/README.md)
+  * [Singleton](Patterns/Singletons/Singleton.md)
+  * [Lazy Singleton](Patterns/Singletons/LazySingleton.md)
+  * [Persistent Lazy Singleton](Patterns/Singletons/PLazySingleton.md)
