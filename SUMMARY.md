@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🍬 Welcome to Gummi](README.md)
+* [Welcome to Gummi](README.md)
 
 ## API Documentation
 
