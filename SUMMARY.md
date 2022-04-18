@@ -11,5 +11,6 @@
   * [UIView](Patterns/MVC/UIView.md)
 * [Singletons](api-documentation/singletons/README.md)
   * [Singleton](Patterns/Singletons/Singleton.md)
+  * [Persistent Singleton](api-documentation/singletons/singleton-1.md)
   * [Lazy Singleton](Patterns/Singletons/LazySingleton.md)
   * [Persistent Lazy Singleton](Patterns/Singletons/PLazySingleton.md)
