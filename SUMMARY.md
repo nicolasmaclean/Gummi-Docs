@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Gummi](README.md)
+* [Installation](installation.md)
 
 ## API Documentation
 
