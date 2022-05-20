@@ -34,3 +34,4 @@
   * [Persistent Lazy Singleton](Patterns/Singletons/PLazySingleton.md)
 * [Utility](api-documentation/utility/README.md)
   * [MDDocumentation](api-documentation/utility/mddocumentation.md)
+  * [Optional](api-documentation/utility/optional.md)
