@@ -2,6 +2,7 @@
 
 * [Welcome to Gummi](README.md)
 * [Installation](installation.md)
+* [Repo](https://github.com/nicolasmaclean/Gummi-Unity)
 
 ## API Documentation
 
